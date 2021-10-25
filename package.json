@@ -1,0 +1,23 @@
+{
+  "name": "NFT-ERC-721",
+  "version": "1.0.0",
+  "description": "",
+  "main": "new.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhay-rana/NFT-ERC-721.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhay-rana/NFT-ERC-721/issues"
+  },
+  "homepage": "https://github.com/abhay-rana/NFT-ERC-721#readme"
+}
