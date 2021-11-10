@@ -1,14 +1,14 @@
 // SPDX-License-Identifier: GPL-3.0
 
 // Created by AbhayRana 
-// The Nerdy Coder Clones
+// The Awesome Nfts
 
 pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";  //this is the openzapplin libraries
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract NerdyCoderClones is ERC721Enumerable, Ownable {                 //contract Name is NErdyCoderCLone and inherited from the openzaplin libraries
+contract Awesome Nfts is ERC721Enumerable, Ownable {                 //contract Name is NErdyCoderCLone and inherited from the openzaplin libraries
   using Strings for uint256;                                             //convert only uint 256 to the addresses
 
   string public baseURI;                                                //base url is the link of the where you hosted your metadata
